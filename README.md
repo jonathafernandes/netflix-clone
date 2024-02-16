@@ -1,39 +1,13 @@
-<h1 align="center"> Netflix Clone </h1>
+**netflix-clone**
+<br/>
+Clone da página inicial da Netflix
 
-<p align="center">
-Clone da página inicial da Netflix.
-<br>
-Versão 1.0
-</p>
-
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-<br>
-
-<p align="center">
-  <img alt="" src="./public/img/layout.png" width="100%">
-</p>
-
-## 🚀 Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- HTML e CSS
-- JavaScript e NodeJS
-- Git e Github
-
-## 💻 Projeto
-
-Além das tecnologias acima utilizadas, também foi consumida a API The Movie Databse.
-
-## 🖱️ Visite
-
-https://netflix-clone-jonathafernandes.vercel.app/
+<img alt="" src="./public/img/layout.png" width="80%">
 
 ---
-👨‍💻 Desenvolvedor
-<br>
-- Jonatha Fernandes
+**🚀 Tecnologias:**
+<br/>
+Foi desenvolvido com **HTML**, **CSS**, **JavaScript** e utilizada a **API The Movie Databse**.
+
+**🖱️ Visite:** _https://netflix-clone-psi-bay.vercel.app/_
+
